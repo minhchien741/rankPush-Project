@@ -15,7 +15,7 @@ it can make your game simple but it can't help you if you don't know how to play
 
 # Game And Feature
 #### PUBG VNG 32 bit (armeabi-v7a):
-- **Bypass Emulator**: Bypass Emulator Detection on Game Emulator
+- **Bypass Emulator**: Bypass Emulator Detection on Gameloop Emulator
 - **Mod Skin**: Now support only Emulator (Mobile soon)
 - **Protector**: Antiban for Mobile user
 
