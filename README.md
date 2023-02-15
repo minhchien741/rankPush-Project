@@ -20,7 +20,7 @@ it can make your game simple but it can't help you if you don't know how to play
 - **Protector**: Antiban for Mobile user
 
 #### Arena Of Valor (Liên Quân) VN 32 bit (armeabi-v7a):
-- **Show Enemy** Dân gian gọi là Hack Map
+- **Show Enemy**: Dân gian gọi là Hack Map
 
 
 
@@ -49,7 +49,7 @@ it can make your game simple but it can't help you if you don't know how to play
 
 ### Or any terminal you like.
 
-#### Contact ([PePe](t.me/khoc_oe_oe)) or ([HADE](t.me/nn_hdae)) for file
+#### Contact ([PePe](https://t.me/khoc_oe_oe)) or ([HADE](https://t.me/nn_hdae)) for file
 
 
 # Mobile Version Interface
@@ -65,11 +65,12 @@ it can make your game simple but it can't help you if you don't know how to play
 
 # Developer
 #### **PePe** (Minh Chien):
-- [Telegram](t.me/khoc_oe_oe)
+- [Telegram](https://t.me/khoc_oe_oe)
+- [Facebook](https://www.facebook.com/minhchien741/)
 
 
 #### **HADE** (Nguyen Nam):
-- [Telegram](t.me/nn_hdae)
+- [Telegram](https://t.me/nn_hdae)
  
 
 
